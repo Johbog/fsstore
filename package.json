@@ -1,0 +1,23 @@
+{
+  "name": "fsstore",
+  "version": "1.0.0",
+  "description": "File system storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johbog/fsstore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Johbog/fsstore/issues"
+  },
+  "homepage": "https://github.com/Johbog/fsstore#readme",
+  "dependencies": {
+    "eslint-config-nodejs": "github:johbog/eslint-config-nodejs"
+  },
+  "eslintConfig": {
+    "extends": "nodejs"
+  }
+}
